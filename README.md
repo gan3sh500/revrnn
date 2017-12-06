@@ -1,2 +1,5 @@
 # Reversible Recurrent Neural Network
-Placeholder till pushed here.
+Pytorch implementation for Reversible Recurrent Neural Networks. Data for Penn Tree Bank in data folder.
+## Requirements:
+* pytorch
+* tqdm
