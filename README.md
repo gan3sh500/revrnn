@@ -1,2 +1,2 @@
-# revrnn
-Reversible Recurrent Neural Network Pytorch Implementation
+# Reversible Recurrent Neural Network
+Placeholder till pushed here.
